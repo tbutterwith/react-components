@@ -8,6 +8,8 @@ A mono repo containing some React components
 
 ### HeroHeader
 
+[![npm version](https://badge.fury.io/js/%40butterwith%2Fhero-header.svg)](https://badge.fury.io/js/%40butterwith%2Fhero-header)
+
 [Component README](./packages/HeroHeader/README.md)
 
 Inspired by the title cards from Netflix's _We are the Champions_, this component provides full screen, mobile friendly hero images.

@@ -1,5 +1,7 @@
 # @butterwith/hero-header
 
+[![npm version](https://badge.fury.io/js/%40butterwith%2Fhero-header.svg)](https://badge.fury.io/js/%40butterwith%2Fhero-header)
+
 A full-screen hero banner inspired by the title cards from Netflix's _We are the Champions_.
 
 Built using [React](https://reactjs.org/) and [styled-components](https://styled-components.com/)
