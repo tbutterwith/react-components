@@ -37,6 +37,7 @@
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
+    "publish": "lerna publish",
     "storybook": "start-storybook -p 6006"
   },
   "eslintConfig": {
