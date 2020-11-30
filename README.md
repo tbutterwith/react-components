@@ -1,10 +1,14 @@
 # react-components
 
+[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
+
 A mono repo containing some React components
 
 ## Components
 
 ### HeroHeader
+
+[Component README](./packages/HeroHeader/README.md)
 
 Inspired by the title cards from Netflix's _We are the Champions_, this component provides full screen, mobile friendly hero images.
 
