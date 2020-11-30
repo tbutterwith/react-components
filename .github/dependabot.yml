@@ -6,10 +6,3 @@ updates:
       interval: "weekly"
     labels:
       - "dependencies"
-
-  - package-ecosystem: "npm"
-    directory: "/packages/HeroHeader/"
-    schedule:
-      interval: "weekly"
-    labels:
-      - "dependencies"
