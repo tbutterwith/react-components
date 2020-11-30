@@ -1,5 +1,5 @@
 {
-  "name": "react-components",
+  "name": "@butterwith/react-components",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
