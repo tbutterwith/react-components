@@ -20,7 +20,7 @@
     "babel-polyfill": "^6.26.0",
     "babel-preset-react-app": "^10.0.0",
     "eslint": "^7.13.0",
-    "eslint-config-prettier": "^6.15.0",
+    "eslint-config-prettier": "^7.1.0",
     "eslint-config-react-app": "^6.0.0",
     "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-import": "^2.22.1",
