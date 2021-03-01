@@ -29,7 +29,7 @@
     "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-testing-library": "^3.10.1",
-    "flow-bin": "^0.144.0",
+    "flow-bin": "^0.145.0",
     "jest": "^26.6.3",
     "jest-axe": "^4.1.0",
     "lerna": "^3.22.1",
