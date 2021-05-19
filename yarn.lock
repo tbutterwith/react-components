@@ -3074,15 +3074,15 @@
     ts-dedent "^2.0.0"
 
 "@storybook/addon-links@^6.1.1":
-  version "6.2.8"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-6.2.8.tgz#5b9a31d84d6ba93d4d05c6e4779ec99151612252"
-  integrity sha512-r64VQDvWaUaBunY2mBPHYh2oEVYNycB/EH4WvXK1it3hXs1XGCIWLap4lKvIcT894XhykS8Jxx/s8SUGIvRzBA==
+  version "6.2.9"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-6.2.9.tgz#3399d14b0fc587bccdaa602f6294bc8b249c09f0"
+  integrity sha512-pBiL6EUZI3c9qtCqnGx3RXF46kAxGMdo4xDC2y3mM132W//DzxkzLZRe4ZhxxGwaLzTNlNrypZ6Li6WyIaPZ/w==
   dependencies:
-    "@storybook/addons" "6.2.8"
-    "@storybook/client-logger" "6.2.8"
-    "@storybook/core-events" "6.2.8"
+    "@storybook/addons" "6.2.9"
+    "@storybook/client-logger" "6.2.9"
+    "@storybook/core-events" "6.2.9"
     "@storybook/csf" "0.0.1"
-    "@storybook/router" "6.2.8"
+    "@storybook/router" "6.2.9"
     "@types/qs" "^6.9.5"
     core-js "^3.8.2"
     global "^4.4.0"
@@ -4174,9 +4174,9 @@
     pretty-format "^26.6.2"
 
 "@testing-library/jest-dom@^5.11.4":
-  version "5.11.9"
-  resolved "https://registry.yarnpkg.com/@testing-library/jest-dom/-/jest-dom-5.11.9.tgz#e6b3cd687021f89f261bd53cbe367041fbd3e975"
-  integrity sha512-Mn2gnA9d1wStlAIT2NU8J15LNob0YFBVjs2aEQ3j8rsfRQo+lAs7/ui1i2TGaJjapLmuNPLTsrm+nPjmZDwpcQ==
+  version "5.12.0"
+  resolved "https://registry.yarnpkg.com/@testing-library/jest-dom/-/jest-dom-5.12.0.tgz#6a5d340b092c44b7bce17a4791b47d9bc2c61443"
+  integrity sha512-N9Y82b2Z3j6wzIoAqajlKVF1Zt7sOH0pPee0sUHXHc5cv2Fdn23r+vpWm0MBBoGJtPOly5+Bdx1lnc3CD+A+ow==
   dependencies:
     "@babel/runtime" "^7.9.2"
     "@types/testing-library__jest-dom" "^5.9.1"
