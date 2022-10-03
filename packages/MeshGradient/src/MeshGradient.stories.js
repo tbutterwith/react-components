@@ -9,9 +9,7 @@ const options = {
 export default options;
 
 const meshGradientDefaultStory = ({ meshName, width, height }) => (
-  <MeshGradient style={{ height, width }} meshName={meshName}>
-    Some text
-  </MeshGradient>
+  <MeshGradient style={{ height, width }} meshName={meshName} />
 );
 
 export const Mesh = meshGradientDefaultStory.bind({});

@@ -1,27 +1,25 @@
-# @butterwith/hero-header
+# @butterwith/mesh-gradients
 
-[![npm version](https://badge.fury.io/js/%40butterwith%2Fhero-header.svg)](https://badge.fury.io/js/%40butterwith%2Fhero-header)
+[![npm version](https://badge.fury.io/js/%40butterwith%2Fmesh-gradients.svg)](https://badge.fury.io/js/%40butterwith%2Fmesh-gradients)
 
-A full-screen hero banner inspired by the title cards from Netflix's _We are the Champions_.
+A React component for adding mesh gradient backgrounds to your components.
 
-Built using [React](https://reactjs.org/) and [styled-components](https://styled-components.com/)
+Built using [React](https://reactjs.org/).
 
 ## Installation
 
 ```sh
-> yarn add --dev @butterwith/hero-header
+> yarn add --dev @butterwith/mesh-gradients
 ```
 
 ## Usage
 
 ```js
-import HeroHeader from '@butterwith/hero-header';
+import MeshGradient from '@butterwith/mesh-gradients';
 
 render() {
-  return (<HeroHeader img={path_to_img}
-    title={"My Title}
-    subtitle={"Subtitle text"} // optional subtitle
-    color={"red"}
+  return (<MeshGradient
+    meshName="default"
   />)
 }
 ```
