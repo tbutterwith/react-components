@@ -19,6 +19,20 @@ Inspired by the title cards from Netflix's _We are the Champions_, this componen
 | Horizontal screenshot of the header using the default `color`        | ![A screenshot of the hero header with a forest background](./docs/images/hero_header_screenshot-forest.png) |
 | Vertical screenshot of the header using `indigo` as the `color` prop | ![A screenshot of the hero header with a city background](./docs/images/hero_header_screenshot-city.png)     |
 
+
+### Mesh Gradients
+
+[![npm version](https://badge.fury.io/js/%40butterwith%2Fmesh-gradients.svg)](https://badge.fury.io/js/%40butterwith%2Fmesh-gradients)
+
+[Component README](./packages/MeshGradients/README.md)
+
+A React component for adding mesh gradient backgrounds to your components.
+
+| Description                                                          | Image                                                                                                        |
+| :------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| The default mesh gradient        | ![A screenshot of the default mesh gradient](./docs/images/mesh_gradient_screenshot-default.png) |
+| The blueish mesh gradient        | ![A screenshot of the default mesh gradient](./docs/images/mesh_gradient_screenshot-blueish.png) |
+
 ## Assets
 
 This repo contains a number of assets. Licenses and attribution are shown below.
