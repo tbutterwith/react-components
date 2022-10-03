@@ -1,12 +1,11 @@
 {
   "name": "@butterwith/hero-header",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "peerDependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
-  "dependencies": {},
   "scripts": {
     "build": "react-scripts build",
     "lint": "eslint ./src",
